@@ -24,8 +24,8 @@
 # 4. Pretrained models
 | Model                                |Pretrained model  |
 |--------------------------------------|-------|
-| Concat attention with bucket sampler | https://www.dropbox.com/s/53lqh1smg7wes78/seq2seq_concat.pth?dl=1 |
-| Dot attention with bucket sampler    |https://www.dropbox.com/s/62diyibdzdu2ikm/seq2seq_dot_with_bucket.pth?dl=1 |
+| Concat attention with bucket sampler |[pretrained_model](https://www.dropbox.com/s/53lqh1smg7wes78/seq2seq_concat.pth?dl=1) |
+| Dot attention with bucket sampler    |[pretrained_model](https://www.dropbox.com/s/62diyibdzdu2ikm/seq2seq_dot_with_bucket.pth?dl=1) |
 
 # 5. TODO
 * Transferring word representation from Word2vec or Glove will improve the score.

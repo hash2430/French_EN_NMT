@@ -20,3 +20,6 @@
 * Word representation: nn.Embedding, not transferred from Word2vec or other representations
 * GRU-based encoder, decoder for source and target language sequence, respectively.
 * Dot product & concat attention for aligning source language and target language.
+
+#4. TODO
+* Transferring word representation from Word2vec or Glove will improve the score.
